@@ -5,6 +5,7 @@ function App() {
 
   return (
    <>
+   <h4>Hello Travels website</h4>
     <Navbar />
     <main className="relative overflow-hidden"> 
         <Hero />
